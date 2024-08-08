@@ -20,7 +20,7 @@
   <!-- profile logo 个人资料徽标 -->
   <div>
 
- <a href="https://www.ojason.top/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+ <a href="https://www.ojason.top/"><img src="https://img.shields.io/badge/Blog-我的博客-blue" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=xiaoqi419&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 
@@ -43,7 +43,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/84332917?v=4" />
 
 <p>&emsp;&emsp;嗨，你好，我是Jason。热爱编程、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的全栈开发者。</p>
@@ -56,12 +56,14 @@
 
 </table>
 
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+
 <div align="center">
-	![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-	![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-	![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-	![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-	![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+
 	<!-- gif -->
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
